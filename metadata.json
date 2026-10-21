@@ -1,0 +1,6 @@
+{
+  "name": "SUPM TEGAL ASSESMEN MENDALAM",
+  "description": "Generator perangkat asesmen pembelajaran SMK SUPM Tegal (Diagnostik, Formatif, Sumatif) berbasis Taksonomi SOLO dan kurikulum vokasi perikanan kelautan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
